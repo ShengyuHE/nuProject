@@ -1,0 +1,6 @@
+*.png
+*.sh
+*.out
+*.npy
+_pycache_
+
